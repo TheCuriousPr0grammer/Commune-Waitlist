@@ -161,6 +161,11 @@ footer {
 		font-size: 2rem;
 		text-align: unset;
 	}
+	.call-to-action {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-evenly;
+	}
 	.call-to-action__description {
 		text-align: unset;
 		padding: 0 0 1rem;
