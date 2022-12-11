@@ -161,9 +161,9 @@ footer {
 		font-size: 2rem;
 		text-align: unset;
 	}
-	
-	form{
-	max-width: 70%;
+
+	form {
+		max-width: 50%;
 	}
 	.call-to-action {
 		display: flex;
