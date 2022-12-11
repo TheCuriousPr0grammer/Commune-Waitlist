@@ -161,6 +161,10 @@ footer {
 		font-size: 2rem;
 		text-align: unset;
 	}
+	
+	form{
+	max-width: 70%;
+	}
 	.call-to-action {
 		display: flex;
 		flex-direction: column;
